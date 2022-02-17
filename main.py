@@ -18,7 +18,7 @@ from core import (
 
 REPO = """
 🤖 **Music Player**
-- Repo: [GitHub](https://github.com/AsmSafone/MusicPlayer)
+- Repo: [GitHub](https://html.com/)
 - License: AGPL-3.0-or-later
 """
 
